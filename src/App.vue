@@ -62,6 +62,7 @@ onMounted(() => {
 				<input 
 					type="text" 
 					name="content" 
+					autocomplete="off"
 					id="content" 
 					placeholder="e.g. make a video"
 					v-model="input_content" />
