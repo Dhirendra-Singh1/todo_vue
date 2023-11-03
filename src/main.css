@@ -4,6 +4,9 @@
     box-sizing: border-box;
 
 }
+h3{
+    text-align: center;
+}
 
 html{
     margin: 10px 10px;
